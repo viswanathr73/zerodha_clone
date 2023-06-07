@@ -7,9 +7,8 @@ body{
     line-height: 1.7;
     font-weight: 400;    
 }
-header{
-    position: sticky;
-}   
+
+   
 
 .header-content{
 
@@ -73,6 +72,8 @@ header{
 .first-content button:hover{
     color: #387ed1;
     background-color: rgb(73, 72, 73);
+    
+    
 }
 .second-section{
     display: flex;
